@@ -1,0 +1,8 @@
+{
+  "name": "Scanner de Cartes de Visite ",
+  "description": "Scanner de cartes de visite alimenté par l'IA utilisant Gemini 2.5 Flash pour l'extraction et la génération de suivi intelligent.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
